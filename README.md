@@ -58,5 +58,5 @@ If you want to check the difference in processing time between the SAM-based and
 
 - `Width_extraction_after_SAM_2014_time_mesured.ipynb`
 - `image_width_extraction_skeleton_on_distance_transform_on_20140520_and_20140415_time_processed_mesured.ipynb`
-
+- This code `t.test_on_time_processing.ipynb` for a t-student analysis of the results.
 ---
