@@ -49,7 +49,7 @@ Use **`plot_width.ipynb`** to visualize the width data and inspect trends.
 
 ### Step 6 — Train & Test Machine Learning Models
 - **`test_AI_models_single_df.ipynb`** → Test the model using a single DataFrame.  
-- **`test_AI_models_3_df.ipynb`** → Test the model using three DataFrames for improved accuracy.
+- **`test_AI_models_3_df.ipynb`** → Test the model using three DataFrames.
 
 ---
 
